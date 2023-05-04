@@ -20,9 +20,9 @@
 <a  href="https://twitter.com/i_am_amine" target="_blank">
   <img  alt="Twitter Follow"  src="https://img.shields.io/twitter/follow/i_am_amine?style=social">
 </a>
-<img  src="https://img.shields.io/github/repo-size/The-Intruder/Flexible-Output-Formatting-with-C-aka-ft_printf"  alt="Repo Size">
-<img  src="https://img.shields.io/github/last-commit/The-Intruder/Flexible-Output-Formatting-with-C-aka-ft_printf"  alt="Last Commit">
-<img  src="https://img.shields.io/github/license/The-Intruder/Flexible-Output-Formatting-with-C-aka-ft_printf" alt="License" >
+<img  src="https://img.shields.io/github/repo-size/The-Intruder/Lightweight-Unix-Shell-Implementation-aka-Minishell"  alt="Repo Size">
+<img  src="https://img.shields.io/github/last-commit/The-Intruder/Lightweight-Unix-Shell-Implementation-aka-Minishell"  alt="Last Commit">
+<img  src="https://img.shields.io/github/license/The-Intruder/Lightweight-Unix-Shell-Implementation-aka-Minishell" alt="License" >
 <img  src="https://img.shields.io/badge/Made%20with-❤-1f425f.svg"  alt="made-with-love">
 </div>
 
